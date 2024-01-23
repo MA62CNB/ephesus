@@ -1,0 +1,1 @@
+It is a prototype of a interactive guide. Secrets of Ephesus focuses on Ephesus Archeological Site. It shows different hotspots and reflects different eras. User can click various places in the city and learn more about it. There are 5 spots and 5 characters from Ancient Greece. Wonders are presented by vocal information and corresponding english subtitle.
